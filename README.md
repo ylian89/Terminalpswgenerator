@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Terminal Password Generator</h1>
-  <h3 align="center">A secure password generator from the terminal</h3>
+  <h3 align="center">A secure password generator for the terminal</h3>
 </div>
 
 :wave: Hello everybody! I have created this application to generate a strong password from the terminal. 
