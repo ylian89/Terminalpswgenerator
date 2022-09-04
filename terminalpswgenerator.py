@@ -59,7 +59,6 @@ def generate_password():
 	clipboard("".join(password))
 
 	print('Password created, paste it where you want.')
-	print(f"For more info visit: https://github.com/ylian89 \n")
 
 # Select the lenght of psw
 length = int(input("Enter password length (min 8): "))
