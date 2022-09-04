@@ -31,7 +31,7 @@ import string
 import random
 from tkinter import Tk
 
-print("Terminal Password Generator (v 1.0)\n")
+print("Terminal Password Generator (v 1.0)")
 
 char = list(string.ascii_letters + string.digits + "?=|!@#$%^&*()+-")
 
